@@ -1,0 +1,8 @@
+﻿  MAPAKARNAUGTH03.cpp
+MAPAKARNAUGTH03.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAPAKARNAUGTH03.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAPAKARNAUGTH03.cpp(424): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+MAPAKARNAUGTH03.cpp(368): warning C4101: 'S': unreferenced local variable
+  MAPAKARNAUGTH03.vcxproj -> D:\PROYECTOS_GRANDES_C++\MAPAKARNAUGTH03\Release\MAPAKARNAUGTH03.exe
+  MAPAKARNAUGTH03.vcxproj -> D:\PROYECTOS_GRANDES_C++\MAPAKARNAUGTH03\Release\MAPAKARNAUGTH03.pdb (Full PDB)

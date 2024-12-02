@@ -1,0 +1,9 @@
+﻿  MAPAKARNAUGTH03.cpp
+MAPAKARNAUGTH03.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAPAKARNAUGTH03.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAPAKARNAUGTH03.cpp(376): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+MAPAKARNAUGTH03.cpp(332): warning C4101: 'S': unreferenced local variable
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MAPAKARNAUGTH03.vcxproj -> D:\2019-Discreta\MAPAKARNAUGTH03\Debug\MAPAKARNAUGTH03.exe
+  MAPAKARNAUGTH03.vcxproj -> D:\2019-Discreta\MAPAKARNAUGTH03\Debug\MAPAKARNAUGTH03.pdb (Partial PDB)
